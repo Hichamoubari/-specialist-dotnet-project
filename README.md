@@ -18,4 +18,6 @@
 ![Home Page - FYS](https://user-images.githubusercontent.com/62290643/215538299-f88e2968-d9be-4bc5-9589-155e57093193.gif)
 # 7. Offers Listing
 ![offers](https://user-images.githubusercontent.com/62290643/215287528-ef169ee6-a8bc-4725-b879-d117a2499fab.gif)
+# 8. Specialists Add/Update/Delete
+https://user-images.githubusercontent.com/75031773/218286429-2a47a95b-ffe8-40b3-a88c-47c43d24a136.mp4
 
